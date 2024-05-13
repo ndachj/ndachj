@@ -1,34 +1,36 @@
-<h3 align="center">Hi 👋 there, </h3>
- 
 <!--
 **ndachj/ndachj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<h3 align="left">Hi 👋 there,</h3>
+
 Open a `Terminal` and run the following command:
 
-```bash
+```sh
 man ndachj
 ```
 
 Output:
 
-```bash
+```c
 NAME
-   ndachj - An infamous folk who is passionate about Hacking.
+   ndachj - a self-taught h4ck3r
 
 SYNOPSIS
-    ndachj  [--help]
-            [--programming-language]
+    ndachj  [--programming-languages]
             [--tools]
             [--working-on]
             [--i-love]
 
 DESCRIPTION
-    More juicy info about me.
+    I am an infamous folk in the digital underworld, who dances
+    with code and bends the rules of cyberspace to my will.
+
+OPTIONS
     Sorry, no short options.
 
-    --programming-language
-        Python, C , Bash, Lua
+    --programming-languages
+        Python, Lua, Bash, C
 
     --tools
         Linux, Git, Neovim
@@ -40,11 +42,21 @@ DESCRIPTION
         Talking about my career.
         Working in a Linux terminal.
 
-ndachj 0.1.0       April 2024                 NDACHJ(1)
+SEE ALSO
+    My repos <https://github.com/ndachj?tab=repositories>
+
+ndachj 0.1.1            May 2024              NDACHJ(1)
 ```
 
-<!-- display top skills/lang -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndachj&show_icons=true&locale=en&layout=compact" alt="ndachj" /></p>
+<h3 align="left">My 📊 Stats</h3>
+
+<!-- display github profile details card -->
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndachj&theme=transparent" alt="Profile details" /></p>
 
 <!-- display github profile stats card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndachj&show_icons=true&locale=en" alt="ndachj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndachj&theme=transparent&show_icons=true&locale=en" alt="Profile stats" /></p>
+
+<!-- display top skills/langs -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndachj&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Top langs" /></p>
+
+<!-- <h3 align="left">Ping 🤙 Me</h3> -->
