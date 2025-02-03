@@ -10,44 +10,53 @@ Output:
 
 ```cpp
 NAME
-  ndachj - a Linux system administrator and Android enthusiast
+  ndachj - a Linux enthusiast and ...
 
 SYNOPSIS
-  ndachj  [--i-love]
+  ndachj  [--current-projects]
+          [--interests]
           [--programming-languages]
-          [--tools]
-          [--working-on]
+          [--tools-and-technologies]
+
+DESCRIPTION
+  Ndachj is a tech enthusiast with a deep passion for open-source software,
+  Linux system administration, and building efficient, reliable systems.
+  Constantly tinkering and experimenting, Ndachj enjoys tackling challenges,
+  optimizing performance, automating tasks, working in the terminal,
+  and contributing to projects that enhance system efficiency and reliability.
 
 OPTIONS
-  Sorry, only long options are available.
+  Sorry, short options have not made the cut yet — only long ones are allowed!
 
-  --i-love
-      o Talking about my career.
-      o Working in a Linux terminal.
+  --current-projects
+      Something exciting (stay tuned for updates)
+
+  --interests
+      o Linux and open-source - 70% (primary focus)
+      o Software development - 30% (currently expanding)
 
   --programming-languages
-      Python, Lua, Bash, C
+      Python, C/C++, Bash, Lua
 
-  --tools
-      Linux, Git, Neovim
-
-  --working-on
-      Something cool
+  --tools-and-technologies
+      Linux, Git, Neovim, Docker
 
 SEE ALSO
-  My Repositories
-  <https://github.com/ndachj?tab=repositories>
+  Repositories Tab
+      <https://github.com/ndachj?tab=repositories>
 
-ndachj 0.0.1         Sep 2024         NDACHJ(1)
+BUGS
+  If a bug crawls into this README, report it!
+      <https://github.com/ndachj/ndachj/issues>
+
+ndachj 0.0.2                Feb 2025                NDACHJ(1)
 ```
 
 ## My 📊 Stats
 
-<!-- display github profile details card -->
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndachj&theme=transparent" alt="Profile details" /></p>
-
-<!-- display github profile stats card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndachj&theme=transparent&show_icons=true&locale=en" alt="Profile stats" /></p>
-
-<!-- display top languages -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndachj&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <!-- display github profile stats card -->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndachj&theme=transparent&show_icons=true&locale=en" alt="Profile stats" /></p>
+  <!-- display top languages -->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndachj&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
+</div>
