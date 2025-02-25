@@ -1,4 +1,4 @@
-## Hi 👋 there
+## 👋 Hi there
 
 Open a `Terminal` and run the following command:
 
@@ -10,7 +10,7 @@ Output:
 
 ```cpp
 NAME
-  ndachj - a Linux enthusiast and ...
+  ndachj - a Linux enthusiast
 
 SYNOPSIS
   ndachj  [--current-projects]
@@ -36,7 +36,7 @@ OPTIONS
       o Software development - 30% (currently expanding)
 
   --programming-languages
-      Python, C/C++, Bash, Lua
+      Python, C++, Bash, Lua
 
   --tools-and-technologies
       Linux, Git, Neovim, Docker
@@ -49,14 +49,15 @@ BUGS
   If a bug crawls into this README, report it!
       <https://github.com/ndachj/ndachj/issues>
 
-ndachj 0.0.2                Feb 2025                NDACHJ(1)
+ndachj 0.0.2-beta                Feb 2025                NDACHJ(1)
 ```
 
-## My 📊 Stats
+## 📊 My Stats
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <!-- display github profile stats card -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndachj&theme=transparent&show_icons=true&locale=en" alt="Profile stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ndachj&theme=transparent&show_icons=true&locale=en" alt="Profile stats" style="margin: 10px;"/>
   <!-- display top languages -->
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndachj&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndachj&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Top languages" style="margin: 10px;"/>
 </div>
+

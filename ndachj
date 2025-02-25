@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Hey there! You’ve run a script!"
-echo "Ndachj is a person, not just a script. But thanks for running it!"
+echo "Hey there!"
 echo "Enjoy the logo below and feel free to reach out if you have any questions."
 echo '<https://github.com/ndachj>'
 
